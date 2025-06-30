@@ -1,1 +1,6 @@
-# Delicious-Bites-Restaurant
+# Delicious-Bites-Restaurant![Screenshot (75)](https://github.com/user-attachments/assets/cdac9c2e-43b2-4895-81c2-587fedd585ec)
+![Screenshot (76)](https://github.com/user-attachments/assets/83450e66-8123-4ce3-8e99-38499f9b017b)
+![Screenshot (78)](https://github.com/user-attachments/assets/62637089-45f3-42dd-b768-29640edb65b8)
+![Screenshot (79)](https://github.com/user-attachments/assets/2f982014-04cd-4212-9a0d-237c7972d011)
+![Screenshot (80)](https://github.com/user-attachments/assets/aac62559-9f6e-42e6-a11c-e3c6c6b2b954)
+![Screenshot (77)](https://github.com/user-attachments/assets/8ae1c7f2-0cfe-4e09-a6df-895830c12546)
